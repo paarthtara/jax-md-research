@@ -7,4 +7,4 @@ Contains code and notes for work on the JAX MD library. Current objectives inclu
 
 ## File Structure
 
-- `learning.ipynb`: Playground for learning JAX-MD and other related concepts.
+- `crystallization-nvt.ipynb`: Basic code for LJ crystallization under NVT dynamics (Nose-Hoover)
